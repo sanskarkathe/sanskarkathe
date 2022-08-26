@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanskarkathe
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning typescript,sql
 - 💞️ I’m looking to collaborate on Success....
 - 📫 How to reach me @sanskar_kathe on [twitter, linkedIn]
 
